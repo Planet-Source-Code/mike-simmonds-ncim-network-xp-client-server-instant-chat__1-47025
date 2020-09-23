@@ -1,0 +1,21 @@
+Ncim Network XP
+by Mike Simmonds
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
+I'm not bothered if you use this code but i would really relly like it if you e-mail just to let me know that you have a use for it. Thats all I ask!
+
+My email is: mikesimmonds@supanet.com
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
+Features:
+This software runs much better if on WinXP.
+It has been desgned with the visual styles, alpha and feel in mind.
+
+I have not included the server code this time, but I may do if i get enought feedback.
+Please send feedback, its the only way people like us get anywhere.
+
+The app is very easy to use so you shouldn't screw it up.
+
+The project has been lightly commented just to give a little insight into what is going on.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
+
+
+Mike
